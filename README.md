@@ -6,7 +6,9 @@
 
 ## Sobre Mim
 
-[Escreva aqui sua bio curta e sigma — quem você é, filosofia, foco atual]
+Atualmente descobrindo o mundo da programação adquirindo conhecimento e aplicando no que eu gosto de fazer
+
+Não tenho preferências atuais de área de trabalho, posso focar em front-end e back-end
 
 ## Aprendendo/Foco
 
@@ -27,7 +29,7 @@
 
 <div align="left">
 
-![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=Willian-Guedes&theme=crt)
+![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Willian-Guedes?cardType=GitHub&theme=github-dark&fontFamily=&showIcons=&preferLogin=)
 
 
 </div>
