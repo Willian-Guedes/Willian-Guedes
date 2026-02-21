@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="left">Willian Guedes</h1>
 
-<!--
-**Willian-Guedes/Willian-Guedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <strong>Code first, the rest nowhere</strong>
+</p>
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Escreva aqui sua bio curta e sigma — quem você é, filosofia, foco atual]
+
+## Aprendendo/Foco
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40"/> 
+</p>
+
+## Metas 2026
+
+- Ser um bom editor de vídeo  
+  Mobile → Alight Motion, CapCut, Blurr  
+  PC → After Effects, Adobe Premiere Pro
+
+- Ter conhecimento vasto sobre programação
+
+## Estatísticas & Insights
+
+<div align="left">
+
+![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=Willian-Guedes&theme=crt)
+
+
+</div>
+
+## Contato
+
+**Willian Guedes** 🇧🇷/🇺🇸
+
+- [Email](williansenaicanva@gmail.com)
