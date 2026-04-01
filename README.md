@@ -16,7 +16,8 @@ Não tenho preferências atuais de área de trabalho, posso focar em front-end e
   <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40"/>
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40"/>
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="Javascript" height="40"/>
 </p>
 
 ## Metas 2026
